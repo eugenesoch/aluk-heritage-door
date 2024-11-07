@@ -34,3 +34,5 @@ document.addEventListener("DOMContentLoaded", function () {
       });
     });
   
+
+    //added some more stuff to check out!
